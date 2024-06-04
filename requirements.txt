@@ -6,6 +6,7 @@ cycler==0.12.1
 Flask==3.0.3
 fonttools==4.53.0
 future @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+gunicorn==22.0.0
 imbalanced-learn==0.12.3
 importlib_metadata==7.1.0
 importlib_resources==6.4.0
@@ -30,4 +31,3 @@ threadpoolctl==3.5.0
 tzdata==2024.1
 Werkzeug==3.0.3
 zipp==3.19.1
-Gunicorn
